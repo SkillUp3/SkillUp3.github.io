@@ -1,0 +1,68 @@
+Java Basics
+How Java works
+Java Code Structure
+Anatomy of a class
+Loops and Conditional Branching
+
+Object Oriented Programming
+Inheritance
+Overrides
+Methods and Instance variables
+Heap
+
+Variables
+Primitive and Reference variables
+Object declaration and assignment
+Arrays
+
+
+States and Behavior
+Arguments and Return Method
+Getters and Setters
+Instance and Local behaviors
+Encapsulation
+Array
+
+Using the Java API
+Array Lists
+Import statements
+Reading Java documentation
+
+
+Advanced OOP
+inheritance and Overrides
+IS-A and HAS-A
+Polymorphism
+Method Overloading
+
+Polymorphism
+Abstract classes and methods
+Objecsts and ArrayList
+interface
+
+Stack and Heap
+Life f a method, local variable, instance variable
+Constructors, Overloaded constructors, superclasses
+Garbage Collection
+
+Math
+Static methods and variables
+Constants
+Math methods
+
+Handling exception
+Try-Catch
+Throws exception
+
+Java I/O
+Serialization
+Input and Output streams
+Connection vs Chain streams
+
+Threads
+runnable
+synchronized
+
+
+
+*inner classes
