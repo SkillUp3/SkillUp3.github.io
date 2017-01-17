@@ -60,8 +60,48 @@ Input and Output streams
 Connection vs Chain streams
 
 Threads
-runnable
-synchronized
+Runnable
+Synchronized Methods
+
+Data Structures
+Generics
+Collections - List, Set, Map
+Tree Set
+WildCards
+
+
+Android
+Introduction to Android Studio
+Familiarization of the IDE
+Working with screen elements
+
+Media: Images, Video and Sound
+
+Advanced Topics
+Threading, Handlers and Runnables
+List Views
+Hiding/Unhiding UI Elements
+Try and Catch
+Async Tasks
+HTTP Url Connections, API, JSON Data
+
+Maps & Geolocation
+
+Data & Storage
+SQl Lite and Realm
+
+Instagram Clone
+Parse Server
+
+Uber Clone
+Parse server
+
+Twitter Clone
+
+Whatsapp Clone
+
+Imgur Clone
+Retrofit
 
 
 
